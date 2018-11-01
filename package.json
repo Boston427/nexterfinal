@@ -1,0 +1,11 @@
+{
+  "name": "nexterfinal",
+  "version": "1.0.0",
+  "description": "web page for luxury real estate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Wink",
+  "license": "MIT"
+}
